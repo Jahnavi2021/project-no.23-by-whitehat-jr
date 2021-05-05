@@ -1,1 +1,1 @@
-# project-no.23-by-whitehat-jr
+# Box Class
